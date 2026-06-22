@@ -91,6 +91,26 @@ Uas2/
     └── evaluate_langsmith.py
 ```
 
+## Screenshot Aplikasi
+
+### Tampilan Dashboard
+
+![Dashboard](screenshots/Dashboard.png)
+
+### Hasil Analisis
+
+![Hasil Analisis 1](screenshots/Hasil%201.png)
+
+![Hasil Analisis 2](screenshots/Hasil%202.png)
+
+### Market Chart
+
+![Market Chart](screenshots/Market%20Chart.png)
+
+### Risk Analysis
+
+![Risk Analysis](screenshots/Risk%20Analysis.png)
+
 ## Cara Menjalankan Project
 
 ### 1. Clone Repository
