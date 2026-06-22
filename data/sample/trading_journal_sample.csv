@@ -1,0 +1,9 @@
+date,asset,direction,rr,risk_pct,result,mistake
+2026-05-01,BTC/USD,long,1.8,1.0,win,none
+2026-05-03,EUR/USD,short,1.2,1.0,loss,entry terlalu cepat
+2026-05-06,ETH/USD,long,2.0,1.5,win,none
+2026-05-10,XAU/USD,short,1.0,2.5,loss,overtrading
+2026-05-12,BTC/USD,short,1.5,1.0,loss,tidak menunggu konfirmasi
+2026-05-18,GBP/USD,long,2.2,1.0,win,none
+2026-05-21,ETH/USD,short,1.3,1.0,loss,entry terlalu cepat
+2026-05-25,BTC/USD,long,2.5,1.0,win,none
